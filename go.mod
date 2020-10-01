@@ -1,4 +1,4 @@
-module ctrip
+module go-crawler
 
 go 1.15
 
