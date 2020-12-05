@@ -22,3 +22,9 @@
       
 - [x] 华为应用商店   
       [钉钉评论](https://appgallery.huawei.com/#/app/C100137037) 获取: [appgallery.go](appgallery.go)
+
+- [x] 交大图书馆    
+      [交大图书馆信息搜索](http://opac.lib.sjtu.edu.cn/) 获取: [libary](https://github.com/junhaideng/go-crawler-example/tree/master/sjtu/library)
+      
+- [x] 同去网     
+      [同去网献血名额抢TA](https://tongqu.sjtu.edu.cn/) 获取: [tongqu](https://github.com/junhaideng/go-crawler-example/tree/master/sjtu/tongqu)
