@@ -1,0 +1,19 @@
+{
+  "data":{
+    "act_id": "xxx",
+    "user_sign_info":{
+        "info": [
+            "学院",
+            "出生日期",
+            "第几次献血",
+            "是否是留学生"
+        ],
+        "name": "xx",
+        "phone": "xxx",
+        "email": "xxx@sjtu.edu.cn",
+        "student_number": "xxx"
+    },
+    "attach_id":"0"
+  },
+  "cookie": "xxxx"
+}
