@@ -28,3 +28,9 @@
       
 - [x] 同去网     
       [同去网献血名额抢TA](https://tongqu.sjtu.edu.cn/) 获取: [tongqu](https://github.com/junhaideng/go-crawler-example/tree/master/sjtu/tongqu)
+
+- [x] awesome-books     
+      [pdf电子书下载](https://github.com/guanpengchn/awesome-books) 获取: [book](https://github.com/junhaideng/go-crawler-example/tree/master/github/book)
+     
+- [x] GitHub
+      [GitHub]趋势榜(https://github.com/trending) 获取：[trending](https://github.com/junhaideng/go-crawler-example/tree/master/github/trending)
