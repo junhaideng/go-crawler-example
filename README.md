@@ -32,5 +32,5 @@
 - [x] awesome-books     
       [pdf电子书下载](https://github.com/guanpengchn/awesome-books) 获取: [book](https://github.com/junhaideng/go-crawler-example/tree/master/github/book)
      
-- [x] GitHub
-      [GitHub]趋势榜(https://github.com/trending) 获取：[trending](https://github.com/junhaideng/go-crawler-example/tree/master/github/trending)
+- [x] GitHub      
+      [GitHub趋势榜](https://github.com/trending) 获取：[trending](https://github.com/junhaideng/go-crawler-example/tree/master/github/trending)
