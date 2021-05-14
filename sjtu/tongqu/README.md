@@ -1,6 +1,6 @@
 ### 同去网抢献血名额程序
 
-使用方式：先配置`json`文件，然后`go run main.go`， 如果使用python方式，请使用`python tongqu.py`
+使用方式：先配置`json`文件，然后`go run main.go`， 如果使用python方式，请使用`python tongqu.py`，或者到[Release界面](https://github.com/junhaideng/go-crawler-example/releases)下载可执行文件exe
 
 > 注意`config.json`和代码文件(`tongqu.go or tongqu.py`)应该在同一个目录夹下
 
